@@ -1,2 +1,2 @@
-# kid_pdf
+# react_pdf
 Created with CodeSandbox
